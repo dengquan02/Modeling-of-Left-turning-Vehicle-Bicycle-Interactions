@@ -1,0 +1,2 @@
+cd /d E:\Prediction_NV\New_try\trajectory_generation_deeplearingModel\Model
+python test.py
